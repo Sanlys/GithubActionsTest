@@ -1,1 +1,1 @@
-print("Test")
+print("Test test dette ser man fra github actions")
